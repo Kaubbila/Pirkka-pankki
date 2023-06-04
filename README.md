@@ -8,3 +8,6 @@ The frontend was done with Qt Creator utilizing DLL's with signals and the backe
 -RestApiDLL</br>
 -PinUIDLL</br>
 -RFIDDLL</br>
+
+### The Pirkka Pankki has same functions as in the real ATM:</br>
+
