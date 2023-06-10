@@ -11,3 +11,5 @@ The frontend was done with Qt Creator utilizing DLL's with signals and the backe
 
 ### The Pirkka Pankki has same functions as the real ATM:</br>
 
+## Logging in
+![1](https://github.com/Kaubbila/Pirkka-pankki/assets/76628873/a378208e-b7ba-428e-ba5d-db1986d010b5)
