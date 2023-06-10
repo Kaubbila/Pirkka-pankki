@@ -11,5 +11,32 @@ The frontend was done with Qt Creator utilizing DLL's with signals and the backe
 
 ### The Pirkka Pankki has same functions as the real ATM:</br>
 
-## Logging in
+1.Insert the card.
 ![1](https://github.com/Kaubbila/Pirkka-pankki/assets/76628873/a378208e-b7ba-428e-ba5d-db1986d010b5)
+
+2.Enter PIN
+![2](https://github.com/Kaubbila/Pirkka-pankki/assets/76628873/67ba0883-0328-472b-903d-426bc4369ab6)
+
+3.If you have credit and debit in your card it will ask you to choose.
+(If not, this menu will not appear) 
+![3](https://github.com/Kaubbila/Pirkka-pankki/assets/76628873/db42f66c-4653-4fbf-9c68-66da85655545)
+
+4.Succesful login will give you the menu.
+![4](https://github.com/Kaubbila/Pirkka-pankki/assets/76628873/56d5f4f9-7030-45b6-9d69-969484fba4c6)
+
+5.Withdrawing money
+![6](https://github.com/Kaubbila/Pirkka-pankki/assets/76628873/85eb17c2-84da-478f-b797-856079946166)
+5.1 Asking for where you want the receipt (Screen, or to email(The email option wasnt integrated due to deadline)
+![7](https://github.com/Kaubbila/Pirkka-pankki/assets/76628873/460fb399-54f3-4989-b9d0-e82c34dc7d34)
+5.2 Receipt in the screen
+![8](https://github.com/Kaubbila/Pirkka-pankki/assets/76628873/1a1907ff-8768-41e9-8a5d-6ad792ccecf8)
+5.3 Take the money
+![9](https://github.com/Kaubbila/Pirkka-pankki/assets/76628873/2bd38311-8083-4aa1-b5bd-2b107ef795ec)
+
+6.Checking for balance
+![5](https://github.com/Kaubbila/Pirkka-pankki/assets/76628873/29edf217-83d7-41bd-adbc-aa3075272437)
+
+7. History 
+![10](https://github.com/Kaubbila/Pirkka-pankki/assets/76628873/9d851005-b245-4604-9da3-3c1c1be2eec8)
+
+
