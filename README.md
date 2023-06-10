@@ -17,23 +17,23 @@ The frontend was done with Qt Creator utilizing DLL's with signals and the backe
 2.Enter PIN</br>
 ![2](https://github.com/Kaubbila/Pirkka-pankki/assets/76628873/67ba0883-0328-472b-903d-426bc4369ab6)
 
-3.If you have credit and debit in your card it will ask you to choose.
-(If not, this menu will not appear) 
+3.If you have credit and debit in your card it will ask you to choose.</br>
+(If not, this menu will not appear) </br>
 ![3](https://github.com/Kaubbila/Pirkka-pankki/assets/76628873/db42f66c-4653-4fbf-9c68-66da85655545)
 
-4.Succesful login will give you the menu.
+4.Succesful login will give you the menu.</br>
 ![4](https://github.com/Kaubbila/Pirkka-pankki/assets/76628873/56d5f4f9-7030-45b6-9d69-969484fba4c6)
 
-5.Withdrawing money
+5.Withdrawing money</br>
 ![6](https://github.com/Kaubbila/Pirkka-pankki/assets/76628873/85eb17c2-84da-478f-b797-856079946166)
-5.1 Asking for where you want the receipt (Screen, or to email(The email option wasnt integrated due to deadline)
+5.1 Asking for where you want the receipt (Screen, or to email(The email option wasnt integrated due to deadline)</br>
 ![7](https://github.com/Kaubbila/Pirkka-pankki/assets/76628873/460fb399-54f3-4989-b9d0-e82c34dc7d34)
-5.2 Receipt in the screen
+5.2 Receipt in the screen</br>
 ![8](https://github.com/Kaubbila/Pirkka-pankki/assets/76628873/1a1907ff-8768-41e9-8a5d-6ad792ccecf8)
-5.3 Take the money
+5.3 Take the money</br>
 ![9](https://github.com/Kaubbila/Pirkka-pankki/assets/76628873/2bd38311-8083-4aa1-b5bd-2b107ef795ec)
 
-6.Checking for balance
+6.Checking for balance</br>
 ![5](https://github.com/Kaubbila/Pirkka-pankki/assets/76628873/29edf217-83d7-41bd-adbc-aa3075272437)
 
 7. History 
