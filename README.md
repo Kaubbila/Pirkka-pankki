@@ -12,7 +12,7 @@ The frontend was done with Qt Creator utilizing DLL's with signals and the backe
 ### The Pirkka Pankki has same functions as the real ATM:</br>
 
 1.Insert the card to the RFID reader.</br>
-![1](https://github.com/Kaubbila/Pirkka-pankki/assets/76628873/a378208e-b7ba-428e-ba5d-db1986d010b5)
+![1](https://github.com/Kaubbila/Pirkka-pankki/assets/76628873/ef24c500-2872-4212-9f8c-f546752cb5cd)
 
 2.Enter PIN</br>
 ![2](https://github.com/Kaubbila/Pirkka-pankki/assets/76628873/67ba0883-0328-472b-903d-426bc4369ab6)
