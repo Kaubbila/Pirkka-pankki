@@ -38,7 +38,7 @@ The frontend was done with Qt Creator utilizing DLL's with signals and the backe
 6.Checking for balance</br>
 ![5](https://github.com/Kaubbila/Pirkka-pankki/assets/76628873/29edf217-83d7-41bd-adbc-aa3075272437)</br>
 
-7. History </br>
+7.History</br>
 ![10](https://github.com/Kaubbila/Pirkka-pankki/assets/76628873/9d851005-b245-4604-9da3-3c1c1be2eec8)</br>
 
 
