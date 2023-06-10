@@ -28,7 +28,7 @@ The frontend was done with Qt Creator utilizing DLL's with signals and the backe
 ![6](https://github.com/Kaubbila/Pirkka-pankki/assets/76628873/85eb17c2-84da-478f-b797-856079946166)</br>
 5.1 Asking for where you want the receipt</br>
 (Screen, or to email(The email option wasn't integrated due to deadline)</br>
-![7](https://github.com/Kaubbila/Pirkka-pankki/assets/76628873/460fb399-54f3-4989-b9d0-e82c34dc7d34)
+![7](https://github.com/Kaubbila/Pirkka-pankki/assets/76628873/460fb399-54f3-4989-b9d0-e82c34dc7d34)</br>
 5.2 Receipt in the screen</br>
 ![8](https://github.com/Kaubbila/Pirkka-pankki/assets/76628873/1a1907ff-8768-41e9-8a5d-6ad792ccecf8)</br>
 5.3 Take the money</br>
