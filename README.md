@@ -11,10 +11,10 @@ The frontend was done with Qt Creator utilizing DLL's with signals and the backe
 
 ### The Pirkka Pankki has same functions as the real ATM:</br>
 
-1.Insert the card.
+1.Insert the card.</br>
 ![1](https://github.com/Kaubbila/Pirkka-pankki/assets/76628873/a378208e-b7ba-428e-ba5d-db1986d010b5)
 
-2.Enter PIN
+2.Enter PIN</br>
 ![2](https://github.com/Kaubbila/Pirkka-pankki/assets/76628873/67ba0883-0328-472b-903d-426bc4369ab6)
 
 3.If you have credit and debit in your card it will ask you to choose.
